@@ -2,6 +2,7 @@
  "Smartphones" : [
     {
         "name": "Realme",
+        "id":1,
         "image": "https://www.reliancedigital.in/medias/realme-C25s-Smartphones-491997366-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NjQ0NXxpbWFnZS9qcGVnfGltYWdlcy9oNzgvaGFmLzk2MDQ2MzE1OTI5OTAuanBnfDg3ZDQ2MjQwMTNmY2E3NjYyYTBmZWU1NzE1YTFkZWY1NDFjM2FkNDIzMTM3MWU2MDRhNzgyMDM1YTcwMTExMWM",
         "price": 544465,
         "description": "realme C25s 128 GB, 4 GB RAM, Watery Grey Mobile Phone",
@@ -10,6 +11,7 @@
 
     ,{
         "name": "Apple",
+        "id":2,
         "image": "https://www.reliancedigital.in/medias/Apple-MLL93HN-A-Smart-Phones-491997748-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MjEwOXxpbWFnZS9qcGVnfGltYWdlcy9oZWIvaDlmLzk3NzYwODg3NzY3MzQuanBnfDlkY2I0NDI4YjFjZGNlNzk0MTMyZWExNzg3MzFiYzFhZTQ5NzA0MGUyZjcyM2U2Njk5YTFjOTZlZDY2NjZkOTI",
         "price": 14400465,
         "description": " Apple Iphone 13 Pro Max 128GB, Sierra Blue",
@@ -17,6 +19,7 @@
     }
     ,{
         "name": "Apple",
+        "id":3,
         "image": "https://www.reliancedigital.in/medias/Apple-iPhone-13-Mini-Smartphones-491997714-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMDk0NXxpbWFnZS9qcGVnfGltYWdlcy9oYmIvaDJjLzk2MzczMjYxNTk5MDIuanBnfDYzYjdhMDBmZTM5ZjUzNzU3ZjZkMjlhMzczMDljMTVlZjE1ZDM5ZWY4OTFhOGIxZWYwOWVmZjhmZjA5ZDcwYjE",
         "price": 805625,
         "description": " Apple Iphone 13 Mini 128GB, Midnight Black",
@@ -24,6 +27,7 @@
     }
     ,{
         "name": "Apple",
+        "id":4,
         "image": "https://www.reliancedigital.in/medias/Apple-MLQE3HN-A-Smart-Phones-491997713-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MTY2NHxpbWFnZS9qcGVnfGltYWdlcy9oMzEvaDZkLzk3NzYwNTk5NDA4OTQuanBnfDdmODliMTg4NmY4YmZhZmNkMGM2M2Y5NjhjMGQxNzMxOGMxYTRmZmEwMmI0MTNiNDExYWUzNDc1NGUzZTRkN2I",
         "price": 950000,
         "description": " Apple Iphone 13 512GB, Pink",
@@ -31,6 +35,7 @@
     }
     ,{
         "name": "Apple",
+        "id":5,
         "image": "https://www.reliancedigital.in/medias/Apple-MLPG3HN-A-SmartPhones-491997700-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0OTg0NXxpbWFnZS9qcGVnfGltYWdlcy9oYmMvaDFjLzk4NzgwODk5NTc0MDYuanBnfDNkNjA2MWQzMDAwZDU4NzVjNGQ0YWJkM2IzNGI4ZTAzODczYzY5NjYwZGEzZGMwMTE1YTUzNTEwYzFmNDZkMzE",
         "price": 68000,
         "description": " Apple Iphone 13 128GB, Starlight",
@@ -38,6 +43,7 @@
     }
     ,{
         "name": "Apple",
+        "id":6,
         "image": "https://www.reliancedigital.in/medias/Apple-MLPJ3HN-A-SmartPhones-491997701-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1NzU5MXxpbWFnZS9qcGVnfGltYWdlcy9oYzYvaDBmLzk4NzgxMDMxMzAxNDIuanBnfDFkMTU1MjVmY2Y5MTY1NDgxMjU5ZTdlOWJhMGRiMDRkNGY3M2Q2ZTUyN2UzYjg5NjdiMTExYzVmYzNmMmU3MmQ",
         "price": 670000,
         "description": " Apple Iphone 13 128GB, Red",
@@ -45,6 +51,7 @@
     }
     ,{
         "name": "Google",
+        "id":7,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/g/g/3/-original-imaggbrccwsnygar.jpeg?q=70",
         "price": 29000,
         "description": "Google Pixel 6a 128 GB, Chalk",
@@ -52,6 +59,7 @@
     }
     ,{
         "name": "Google",
+        "id":8,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/l/2/y/-original-imaggswcffkgcupp.jpeg?q=70",
         "price": 57999,
         "description": "Google Pixel 7 128 GB, Lemongrass",
@@ -59,6 +67,7 @@
     }
     ,{
         "name": "Google",
+        "id":9,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/b/p/s/-original-imaggsuemmztbghp.jpeg?q=70",
         "price": 81969,
         "description": "Google Pixel 7 Pro 128 GB, Snow",
@@ -66,6 +75,7 @@
     }
     ,{
         "name": "Google",
+        "id":10,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/z/g/q/-original-imaggsueh4b26fj7.jpeg?q=70",
         "price": 81363,
         "description": "Google Pixel 7 Pro 128 GB, Hazzel",
@@ -73,6 +83,7 @@
     }
     ,{
         "name": "Google",
+        "id":12,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/t/u/m/-original-imaggsuehy3nyj3b.jpeg?q=70",
         "price": 86324,
         "description": "Google Pixel 7 Pro 128 GB, Obsidian",
@@ -80,6 +91,7 @@
     }
     ,{
         "name": "Google",
+        "id":13,
         "image": "https://rukminim1.flixcart.com/image/312/312/kflftzk0/mobile/h/q/u/google-pixel-4a-ga02099-in-original-imafwyzmnfxzmv5q.jpeg?q=70",
         "price": 31562,
         "description": "Google Pixel 4a 128 GB, Just Black",
@@ -87,6 +99,7 @@
     }
     ,{
         "name": "Nothing",
+        "id":14,
         "image": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/mobile/4/7/l/-original-imagg4y3grhaxckf.jpeg?q=70",
         "price": 35696,
         "description": "Nothing Phone 1 256 GB, White",
@@ -94,6 +107,7 @@
     }
     ,{
         "name": "Nothing",
+        "id":15,
         "image": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/mobile/5/x/r/-original-imagg4xza5rehdqv.jpeg?q=70",
         "price": 27563,
         "description": "Nothing Phone 1 256 GB, Black",
@@ -101,6 +115,7 @@
     }
     ,{
         "name": "Nothing",
+        "id":16,
         "image": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/mobile/5/x/r/-original-imagg4xza5rehdqv.jpeg?q=70",
         "price": 26539,
         "description": "Nothing Phone 1 128 GB, Black",
@@ -108,6 +123,7 @@
     }
     ,{
         "name": "Samsung",
+        "id":17,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/1/r/n/-original-imagmg6gyzgzzszt.jpeg?q=70",
         "price": 79566,
         "description": "Samsung Galaxy S23 5G 256 GB, Cream",
@@ -115,6 +131,7 @@
     }
     ,{
         "name": "Samsung",
+        "id":18,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/t/7/r/-original-imagmg6gyxbn4md9.jpeg?q=70",
         "price": 79655,
         "description": "Samsung Galaxy S23 5G 256 GB, Phantom Black",
@@ -122,6 +139,7 @@
     }
     ,{
         "name": "Samsung",
+        "id":19,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/g/l/3/-original-imagmg6gyu3zemex.jpeg?q=70",
         "price": 78563,
         "description": "Samsung Galaxy S23 5G 256 GB, Lavender",
@@ -129,6 +147,7 @@
     }
     ,{
         "name": "Samsung",
+        "id":20,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/8/c/x/-original-imagmg6gy7x3xwcg.jpeg?q=70",
         "price": 114056,
         "description": "Samsung Galaxy S23 Plus 5G 256 GB, Cream",
@@ -136,6 +155,7 @@
     }
     ,{
         "name": "Samsung",
+        "id":21,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/m/l/o/-original-imagmg6gzjf7gggt.jpeg?q=70",
         "price": 142000,
         "description": "Samsung Galaxy S23 Ultra 5G 256 GB, Phantom Black",
@@ -143,6 +163,7 @@
     }
     ,{
         "name": "Samsung",
+        "id":22,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/k/1/o/-original-imagmg6gz3bsgan7.jpeg?q=70",
         "price": 124050,
         "description": "Samsung Galaxy S23 Ultra 5G 256 GB, Cream",
@@ -150,6 +171,7 @@
     }
     ,{
         "name": "Samsung",
+        "id":23,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70",
         "price": 145052,
         "description": "Samsung Galaxy S23 Ultra 5G 256 GB, Green",
@@ -157,6 +179,7 @@
     }
     ,{
         "name": "Motorola",
+        "id":24,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/h/r/b/-original-imagh29eqd3zrvaf.jpeg?q=70",
         "price": 15236,
         "description": "Motorola G62 5G 128 GB, Midnight Gray",
@@ -164,6 +187,7 @@
     }
     ,{
         "name": "Motorola",
+        "id":25,
         "image": "https://rukminim1.flixcart.com/image/312/312/l29c9e80/mobile/l/g/m/-original-imagdnefhnhztahe.jpeg?q=70",
         "price": 12999,
         "description": "Motorola G52 128 GB, Charcoal Gray",
@@ -171,6 +195,7 @@
     }
     ,{
         "name": "Motorola",
+        "id":26,
         "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/d/m/f/-original-imaggvfz5xvn4j93.jpeg?q=70",
         "price": 10499,
         "description": "Motorola G32 64 GB, Satin Silver",
